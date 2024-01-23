@@ -1,7 +1,6 @@
 ver = '1.1.1'
 
 import requests
-import os
 import json
 from config import chavecrypcomp, wp_blog, wp_website, tl_pk
 from wordpress_xmlrpc import Client, WordPressPost
@@ -15,8 +14,8 @@ from random import randint
 
 tl_pk = tl_pk[::-1]
 wp = Client(wp_website+'xmlrpc2.php', wp_blog[0], wp_blog[1][::-1])
-cache_file = f"""/home/{os.getlogin()}/reporter/cache.data"""
-cache_file = "cache.data"  # Uncomment for testing
+cache_file = "~/reporter/cache.data"  # Assuming it's a Linux/Unix OS
+# cache_file = "cache.data"  # Uncomment for testing
 last_id = int(open(cache_file).read())  # Specify full path
 translator = Translator()
 
