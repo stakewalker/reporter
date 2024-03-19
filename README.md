@@ -14,4 +14,4 @@ Reporter is a GitHub project aimed at providing timely and relevant information 
 
 - **Intelligent Image Handling**: In cases where the headline image cannot be parsed, Reporter intelligently generates visually appealing random images based on relevant tags, ensuring a captivating presentation of the news articles.
 
-By automating the translation and publishing process, Reporter brings valuable cryptocurrency information to the Brazilian audience. With its custom referral hyperlinks, tag-based categorization, and intelligent image handling, Reporter ensures an engaging and user-friendly experience in accessing crypto news tailored for the Brazilian community.
+By automating the translation and publishing process, Reporter brings valuable cryptocurrency information to the Brazilian audience. With its custom referral hyperlinks, tag-based categorization, and intelligent image handling, Reporter ensures an engaging and user-friendly experience in accessing crypto news tailored for the Brazilian community
