@@ -1,6 +1,6 @@
 # Reporter: Automated News Translation and Publishing
 
-Reporter was a project aimed to providing relevant information about cryptocurrency to the Brazilian community. It automates translation and publishing of crypto-related news articles from an API source, delivering the content in Brazilian Portuguese (pt-br) to a WordPress website and a Telegram channel.
+Reporter is a project aimed to providing relevant information about cryptocurrency to the Brazilian community. It automates translation and publishing of crypto-related news articles from an API source, delivering the content in Brazilian Portuguese (pt-br) to a WordPress website and a Telegram channel.
 
 ## Key Features
 
